@@ -105,7 +105,6 @@ Second, when using the viz and exploring particular routes, you might find that 
 
   **Paula Bondoc** <br>
   &nbsp;&nbsp; GitHub: [@paulabondoc](https://github.com/paulabondoc) <br>
-  &nbsp;&nbsp; LinkedIn: https://linkedin.com/in/paubondoc
 
   Project Link: [https://github.com/paulabondoc/airline-ratings-data-project](https://github.com/paulabondoc/airline-ratings-data-project) <br>
   Viz Link : https://public.tableau.com/app/profile/paula.bondoc/viz/Whatisthebestairlineforyourtrip/AirlineReviewsDashboard
@@ -115,8 +114,6 @@ Second, when using the viz and exploring particular routes, you might find that 
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/paubondoc
 [product-screenshot]: <images/viz screenshot.png>
 [viz-tooltip]: images/viz-tooltip.PNG
 [data-screenshot-before]: images/raw-dataset-screenshot.png
